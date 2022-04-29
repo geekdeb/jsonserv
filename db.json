@@ -1,4 +1,4 @@
-[
+{"post":[
     {
         "LocalObservationDateTime": "2022-04-30T01:39:00+05:30",
         "EpochTime": 1651262940,
@@ -282,3 +282,4 @@
         "Link": "http://www.accuweather.com/en/in/jambe/2776801/current-weather/2776801?lang=en-us"
     }
 ]
+}
