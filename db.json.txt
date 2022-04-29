@@ -122,46 +122,6 @@
                 "UnitType": 0
             }
         },
-        "Pressure": {
-            "Metric": {
-                "Value": 1007.5,
-                "Unit": "mb",
-                "UnitType": 14
-            },
-            "Imperial": {
-                "Value": 29.75,
-                "Unit": "inHg",
-                "UnitType": 12
-            }
-        },
-        "PressureTendency": {
-            "LocalizedText": "Rising",
-            "Code": "R"
-        },
-        "Past24HourTemperatureDeparture": {
-            "Metric": {
-                "Value": 0.4,
-                "Unit": "C",
-                "UnitType": 17
-            },
-            "Imperial": {
-                "Value": 1.0,
-                "Unit": "F",
-                "UnitType": 18
-            }
-        },
-        "ApparentTemperature": {
-            "Metric": {
-                "Value": 28.3,
-                "Unit": "C",
-                "UnitType": 17
-            },
-            "Imperial": {
-                "Value": 83.0,
-                "Unit": "F",
-                "UnitType": 18
-            }
-        },
         "WindChillTemperature": {
             "Metric": {
                 "Value": 26.7,
@@ -196,6 +156,104 @@
                 "Value": 0.0,
                 "Unit": "in",
                 "UnitType": 1
+            }
+        },
+        "PrecipitationSummary": {
+            "Precipitation": {
+                "Metric": {
+                    "Value": 0.0,
+                    "Unit": "mm",
+                    "UnitType": 3
+                },
+                "Imperial": {
+                    "Value": 0.0,
+                    "Unit": "in",
+                    "UnitType": 1
+                }
+            },
+            "PastHour": {
+                "Metric": {
+                    "Value": 0.0,
+                    "Unit": "mm",
+                    "UnitType": 3
+                },
+                "Imperial": {
+                    "Value": 0.0,
+                    "Unit": "in",
+                    "UnitType": 1
+                }
+            },
+            "Past3Hours": {
+                "Metric": {
+                    "Value": 0.0,
+                    "Unit": "mm",
+                    "UnitType": 3
+                },
+                "Imperial": {
+                    "Value": 0.0,
+                    "Unit": "in",
+                    "UnitType": 1
+                }
+            },
+            "Past6Hours": {
+                "Metric": {
+                    "Value": 0.0,
+                    "Unit": "mm",
+                    "UnitType": 3
+                },
+                "Imperial": {
+                    "Value": 0.0,
+                    "Unit": "in",
+                    "UnitType": 1
+                }
+            },
+            "Past9Hours": {
+                "Metric": {
+                    "Value": 0.0,
+                    "Unit": "mm",
+                    "UnitType": 3
+                },
+                "Imperial": {
+                    "Value": 0.0,
+                    "Unit": "in",
+                    "UnitType": 1
+                }
+            },
+            "Past12Hours": {
+                "Metric": {
+                    "Value": 0.0,
+                    "Unit": "mm",
+                    "UnitType": 3
+                },
+                "Imperial": {
+                    "Value": 0.0,
+                    "Unit": "in",
+                    "UnitType": 1
+                }
+            },
+            "Past18Hours": {
+                "Metric": {
+                    "Value": 0.0,
+                    "Unit": "mm",
+                    "UnitType": 3
+                },
+                "Imperial": {
+                    "Value": 0.0,
+                    "Unit": "in",
+                    "UnitType": 1
+                }
+            },
+            "Past24Hours": {
+                "Metric": {
+                    "Value": 0.0,
+                    "Unit": "mm",
+                    "UnitType": 3
+                },
+                "Imperial": {
+                    "Value": 0.0,
+                    "Unit": "in",
+                    "UnitType": 1
+                }
             }
         },
         "TemperatureSummary": {
